@@ -1,0 +1,39 @@
+
+10450_0270
+Tiene 79 coord galcticas y 80 fisicas
+
+10050_0270
+Las partes dnd estan los filtros solos no se ven
+Solo sirve 1 las otras no sirven
+
+10150_0270
+Las partes dnd estan los filtros solos no se ven
+
+10550_0020 
+En no galacticas las coordenadas de mayra no corresponden con la imagen
+
+10250_0020
+102.8169608 0.3111770
+102.8170056 0.3112443
+Borradas porque eran duplicadas
+
+10450_0270
+104.5523030 2.5830823
+104.4291805 2.5429147
+Borradas porque eran duplicadas
+
+10550_0270
+105.7677516 2.8713873
+Borrada porque era duplicada
+
+10250_0020
+Region de Mayra tiene coordenadas todas las coordenadas fuera de la imagen.
+Borre todas las coordenadas ya que ninguna correspondia a la foto
+
+10150_0145
+Region de Mayra tiene coordenadas todas las coordenadas fuera de la imagen.
+Borre todas las coordenadas ya que ninguna correspondia a la foto
+
+10050_0270
+Mayra no verifico galaxias para esta region
+Hay coordenadas encontradas por Julio fuera de la imagen, se tuvieron que borrar todas estas coordenadas ya que no correspondian con la imagen de la region.

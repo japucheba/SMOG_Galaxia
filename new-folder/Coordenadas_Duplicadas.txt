@@ -1,0 +1,59 @@
+10050_0270
+No duplicates found.
+
+10150_0145
+No duplicates found.
+
+10150_0270
+No duplicates found.
+
+10250_0020
+No duplicates found.
+
+10250_0145
+Duplicates found:
+Coordinate: 102.1996177 1.7223966
+, Count: 2
+
+10350_0020
+Duplicates found:
+Coordinate: 103.9257505 0.1192445
+, Count: 2
+Coordinate: 103.6250883 0.7495829
+, Count: 2
+Coordinate: 103.8825988 0.7635789
+, Count: 2
+Coordinate: 103.5080835 0.3924167
+, Count: 2
+Coordinate: 103.3785823 0.2439162
+, Count: 2
+
+10350_0145
+No duplicates found.
+
+10350_0270
+No duplicates found.
+
+10450_0020
+No duplicates found.
+
+10450_0145
+No duplicates found.
+
+10450_0270
+No duplicates found.
+
+10550_0020
+Duplicates found:
+Coordinate: 105.6047547 0.8384163
+, Count: 2
+Coordinate: 105.4984167 0.0687500
+, Count: 2
+
+10550_0145
+Duplicates found:
+Coordinate: 106.0249276 1.0354714
+, Count: 2
+
+10550_0270
+No duplicates found.
