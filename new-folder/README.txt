@@ -16,3 +16,8 @@ En el folder principal se encuentran los códigos utilizados. Aquí un breve res
     Create_reg_file.ipynb : Crea archivos tipo .reg (para ser utilizados en DS9) de las coordenadas dadas por los archivos .reg en el folder region_files
 
     Parametros_Imagenes.txt : Los parametros de cada filtro para crear las imagenes RGB.
+
+IMPORTANTE: Las fotos realizadas y los region files utilizados estan en Google Drive.
+Circulo_Astrofisico_Verano_2024 ==> Materiales_SMOG ==> Datasets ==> Shelymar ==> Corte Galaxias 
+Las imagenes en la carpeta "Galaxias" y los region files en la carpeta "region_files"
+No se pudieron subir a GitHub por su tamano.
